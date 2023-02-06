@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Eddie</h1>
 <h3 align="center">About me</h3>
-
+ 
+- 💡 I have a passion for creating cutting edge Front-End web sites & applications 
+ 
 - 👨‍💻 All of my projects are available at [eddiemaceda.com](eddiemaceda.com)
+
+- ✍️ In my free time, I enjoy spending time with my family, reading books, or exploring the outdoors
+
+- 💬 Feel free to reach out to me with any questions, or just for some interesting discussion
 
 - 📫 How to reach me **eddiemaceda11@gmail.com**
 
