@@ -3,8 +3,6 @@
  
 - 💡 I have a passion for building Front-End web sites & applications 
  
-- 👨‍💻 Projects are available to view at [eddiemaceda.com](https://eddiemaceda.com/)
-
 - ✍️ In my free time, I enjoy spending time with my family, reading books, or exploring the outdoors
 
 - 💬 Feel free to reach out to me with any questions, or just for some interesting discussion
